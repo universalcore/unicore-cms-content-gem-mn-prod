@@ -1,17 +1,17 @@
 {
-  "subtitle": "\u0423 \u0432\u0430\u0441 \u0431\u043e\u043b\u044c\u0448\u0435 \u0432\u0438\u0440\u0442\u0443\u0430\u043b\u044c\u043d\u044b\u0445 \u0434\u0440\u0443\u0437\u0435\u0439, \u0447\u0435\u043c \u0442\u0435\u0445, \u0441 \u043a\u0435\u043c \u0432\u044b \u0432\u0441\u0442\u0440\u0435\u0447\u0430\u0435\u0442\u0435\u0441\u044c \u043b\u0438\u0447\u043d\u043e? \u0423\u0447\u0438\u0442\u0435\u0441\u044c \u0441\u0442\u0440\u043e\u0438\u0442\u044c \u0436\u0438\u0432\u044b\u0435 \u043e\u0442\u043d\u043e\u0448\u0435\u043d\u0438\u044f \u043f\u0440\u044f\u043c\u043e \u0441\u0435\u0439\u0447\u0430\u0441", 
-  "description": "", 
+  "subtitle": "", 
+  "description": "\u0423 \u0432\u0430\u0441 \u0431\u043e\u043b\u044c\u0448\u0435 \u0432\u0438\u0440\u0442\u0443\u0430\u043b\u044c\u043d\u044b\u0445 \u0434\u0440\u0443\u0437\u0435\u0439, \u0447\u0435\u043c \u0442\u0435\u0445, \u0441 \u043a\u0435\u043c \u0432\u044b \u0432\u0441\u0442\u0440\u0435\u0447\u0430\u0435\u0442\u0435\u0441\u044c \u043b\u0438\u0447\u043d\u043e? \u0423\u0447\u0438\u0442\u0435\u0441\u044c \u0441\u0442\u0440\u043e\u0438\u0442\u044c \u0436\u0438\u0432\u044b\u0435 \u043e\u0442\u043d\u043e\u0448\u0435\u043d\u0438\u044f \u043f\u0440\u044f\u043c\u043e \u0441\u0435\u0439\u0447\u0430\u0441", 
   "language": "rus_RU", 
   "title": "\u0417\u0430\u0432\u0435\u0434\u0438\u0442\u0435 \u043d\u0430\u0441\u0442\u043e\u044f\u0449\u0438\u0445 \u0434\u0440\u0443\u0437\u0435\u0439 \u2013 \u0432 \u0440\u0435\u0430\u043b\u044c\u043d\u043e\u043c \u043c\u0438\u0440\u0435 ", 
   "primary_category": "663ab25aeb9d4bbaad565dbec67d9758", 
-  "created_at": "2016-07-25T00:00:49.948393+00:00", 
+  "created_at": "2016-07-25T00:00:49+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2016-07-25T00:00:49.948622+00:00", 
+  "modified_at": "2016-08-16T13:19:55.454570+00:00", 
   "_version": {
     "package_version": "1.4.4", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
@@ -22,7 +22,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 0, 
+  "position": 2, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "zavedite-nastoyashih-druzej-v-realnom-mire", 
   "uuid": "0e635a2d39ec443d8b60b5044a35e0cb"
